@@ -1,0 +1,9 @@
+.card {
+	border: 1px solid #d4d4d4;
+	background-color: #d4d4d4;
+	padding: .5rem;
+	margin-bottom: .5rem;
+	cursor: move;
+	user-select: none;
+	border-radius: 3px;
+}
